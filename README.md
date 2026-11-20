@@ -3,7 +3,7 @@
 
 ## 1. Project at a glance
 
-**GATIQ** is a multilingual, two-sided freight coordination platform
+**PRAVAH** is a multilingual, two-sided freight coordination platform
 that connects food suppliers with transport providers. It uses
 AI-assisted intake, perishability-aware prioritisation, vehicle/cargo
 compatibility checks, route and load optimisation, driver-controlled
@@ -34,7 +34,7 @@ capacity as a connected logistics network.
 
 ### Important naming note
 
-GATIQ is the current project/team/product working name. Check name
+PRAVAH is the current project/team/product working name. Check name
 availability and trademark conflicts before public commercial use. The
 product name and team name can be changed independently.
 
@@ -83,7 +83,7 @@ README as a substitute for the latest organiser instructions.
 
 ## 3. Users and roles
 
-GATIQ has three main user roles.
+PRAVAH has three main user roles.
 
 ### 3.1 Food supplier
 
