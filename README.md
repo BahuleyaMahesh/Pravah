@@ -28,7 +28,7 @@ capacity as a connected logistics network.
     vehicle utilisation, and help time-sensitive food reach its
     destination on time.
 
-### Suggested tagline
+### Suggested taglinE
 
 **Smarter Freight. Less Waste. Better Connectivity.**
 
