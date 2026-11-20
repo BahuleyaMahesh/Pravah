@@ -869,7 +869,7 @@ independent LLMs.
 Maintains workflow state, delegates tasks, invokes tools and ensures
 that user confirmation is obtained before consequential actions.
 
-### Supplier Agent
+### Supplier AgenT
 
 Collects shipment details, identifies missing fields, manages saved
 templates and recurring shipment requests.
